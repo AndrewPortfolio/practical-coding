@@ -1,7 +1,7 @@
 # practical-coding
+**Concepts I learned from Hello Interview**
 Practice implementing system design concepts and practical coding exercises. 
 
-**Concepts I learned from Hello Interview**
 
 
 ## Networking Essentials 
@@ -9,10 +9,10 @@ Practice implementing system design concepts and practical coding exercises.
 1. Network Layer (3): Handles IP routing and addressing
 2. Transport Layer (4): TCP, UDP, and QUIC
 3. Application Layer (7):
-  - HTTP/HTTPS
-  - REST
-  - GraphQL
-  - gRPC
-  - Server-Sent Events (SSE)
-  - WebSockets
-  - WebRTC
+    - HTTP/HTTPS
+    - REST
+    - GraphQL
+    - gRPC
+    - Server-Sent Events (SSE)
+    - WebSockets
+    - WebRTC
