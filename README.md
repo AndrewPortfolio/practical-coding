@@ -9,7 +9,7 @@ Practice implementing system design concepts and practical coding exercises.
 1. Network Layer (3): Handles IP routing and addressing
 2. Transport Layer (4): TCP, UDP, and QUIC
 3. Application Layer (7):
-    - **HTTP/HTTPS **(Foundation of Web Apps): GET, POST, PUT, PATCH, DELETE
+    - **HTTP/HTTPS**(Foundation of Web Apps): GET, POST, PUT, PATCH, DELETE
     - **REST**: Built upon HTTP/HTTPS, uses URLs as endpoints, bodies are JSON
     - **GraphQL**: Allows client to specify exactly what it needs. Use over REST when there is over/under fetching for data (flexible fetching)
     - **gRPC**: Binary encoding, great for very quick/efficient comms between internal services, rarely/never used externally because of difficulty debugging/not every platform is configured for it
