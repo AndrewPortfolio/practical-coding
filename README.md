@@ -17,3 +17,5 @@ Practice implementing system design concepts and practical coding exercises.
     - **Server-Sent Events (SSE)**: gives real-time push comms, built on top of HTTP and pushes multiple messages to client over one HTTP connection 
     - **WebSockets**: bi-directional real-time comms, built on HTTP handshake, sends binary msgs, allows client and server to comms over 1 connection, used for when you need to send and receive info
     - **WebRTC (No build)**: person to person comms great for audio/video calling
+
+Steps 1&2: https://github.com/AndrewPortfolio/practical-coding/pull/1 
